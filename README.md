@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Bishal Sharma</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<img src="https://www.sbr-technologies.com/wp-content/uploads/2021/07/Mern-Stack-Developer.png" />
+<h1 align="center">Hi 👋, I'm Bishal Sharma  </h1>
+<h3 align="center">A passionate Full Stack developer from India and Life Long Learner!</h3>
+<p>I have been learning mern stack development since last 6 months in the bootcamp. I have more passion for the front end development.</p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bishal00sharma&label=Profile%20views&color=0e75b6&style=flat" alt="bishal00sharma" /> </p>
@@ -11,6 +13,8 @@
 - 💬 Ask me about **JavaScript,MERN Stack**
 
 - 📫 How to reach me **bishalsharmaece@gmail.com**
+
+ ⚡ Fun fact I think I understand my own written code 😝
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

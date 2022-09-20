@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **bishalsharmaece@gmail.com**
 
- ⚡ Fun fact I think I understand my own written code 😝
+ ⚡ Fun fact- I think I understand my own written code 😝
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

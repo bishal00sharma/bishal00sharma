@@ -13,6 +13,7 @@
 - 💬 Ask me about **JavaScript,MERN Stack**
 
 - 📫 How to reach me **bishalsharmaece@gmail.com**
+- 📫 Linkdein **https://www.linkedin.com/in/bishal-sharma-0312911a3/**
 
  ⚡ Fun fact- I think I understand my own written code 😝
 

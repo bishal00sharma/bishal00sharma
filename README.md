@@ -19,8 +19,8 @@
  ⚡ Fun fact- I think I understand my own written code 😝
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/bishal-sharma-0312911a3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="govindkmr141" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/bishalsharmaece" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="govind__singh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bishal-sharma-0312911a3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bishalsharma" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/bishalsharmaece" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bishal__sharma" height="30" width="40" /></a>
 </p>
 
 # 💻 Tech Stack:

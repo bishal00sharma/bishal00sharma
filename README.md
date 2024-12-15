@@ -1,4 +1,3 @@
-<img src="https://www.sbr-technologies.com/wp-content/uploads/2021/07/Mern-Stack-Developer.png" />
 <h1 align="center">Hi 👋, I'm Bishal Sharma..  </h1>
 <h3 align="center">A passionate Full Stack developer and Life Long Learner !</h3>
 <p>I have been learning MERN stack development for the last 6 months in the boot camp. I have more passion for front-end development.</p>
